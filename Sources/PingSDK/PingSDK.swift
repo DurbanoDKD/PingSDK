@@ -1,6 +1,6 @@
 import Foundation
 
-struct Ping {
+struct PingSDK {
     func log(
         api: String,
         lat: Double = 0.0,
